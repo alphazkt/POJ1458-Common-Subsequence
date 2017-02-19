@@ -12,8 +12,11 @@ For each set of data the program prints on the standard output the length of the
 Sample Input
 
 abcfbc         abfcab
+
 programming    contest 
+
 abcd           mnp
+
 Sample Output
 
 4
